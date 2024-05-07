@@ -24,10 +24,10 @@
     padding-right: 24px;
     padding-left: 24px;
 
-    @include tablet {
-      // grid-template-columns: 1fr;
-      height: 100%;
-    }
+    // @include tablet {
+    //   // grid-template-columns: 1fr;
+    //   height: 100%;
+    // }
 
     &--left {
       width: 100%;
