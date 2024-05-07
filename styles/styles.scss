@@ -25,7 +25,7 @@
     padding-left: 24px;
 
     @include tablet {
-      grid-template-columns: 1fr;
+      // grid-template-columns: 1fr;
       height: 100%;
     }
 
